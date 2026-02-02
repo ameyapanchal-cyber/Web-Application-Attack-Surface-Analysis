@@ -1,4 +1,4 @@
-#### Objective
+### Objective
 - The objective of this writeup is to understand how websites behave at the HTTP level, how different status codes indicate server behavior, and how attackers analyze website structure, files, folders, and parameters to identify attack surfaces.
 
 ### HTTP Status Codes Observed
