@@ -12,6 +12,7 @@ During this module, I studied the meaning and behavior of common HTTP status cod
 - 404 / 405 – Resource not found or method not allowed
 - 413 / 414 – Request size and URL length limitations
 - 500 / 503 – Server-side errors and service unavailability
+
 These status codes help attackers understand how the server processes requests and where restrictions or weaknesses may exist.
 
 ### Web Structure & Technologies
@@ -22,6 +23,7 @@ I learned how modern websites are structured and the technologies commonly used 
 - APIs: REST API, GraphQL
 - Data formats: JSON, XML
 - Supporting components: SQL databases, CDN, SSL/TLS
+
 Understanding the tech stack helps attackers predict backend behavior and possible weaknesses.
 
 ### Important Files and Folders
@@ -57,6 +59,7 @@ Understanding status codes, file structures, and parameters helps attackers:
 - Discover hidden functionality
 - Predict backend logic behavior
 - Prepare for advanced attacks like SQL injection, IDOR, and logic flaws
+
 This highlights the importance of secure coding, proper validation, and layered defenses.
 
 ### Learning
