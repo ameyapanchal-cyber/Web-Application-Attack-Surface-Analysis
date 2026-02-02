@@ -15,6 +15,7 @@ During this module, I studied the meaning and behavior of common HTTP status cod
 - 500 / 503 – Server-side errors and service unavailability
 
 These status codes help attackers understand how the server processes requests and where restrictions or weaknesses may exist.
+
 ---
 
 ### Web Structure & Technologies
@@ -27,6 +28,7 @@ I learned how modern websites are structured and the technologies commonly used 
 - Supporting components: SQL databases, CDN, SSL/TLS
 
 Understanding the tech stack helps attackers predict backend behavior and possible weaknesses.
+
 ---
 
 ### Important Files and Folders
@@ -39,6 +41,7 @@ I learned about commonly exposed or sensitive files and folders that attackers l
 - api.php – API endpoints
 - backup/ – Backup files and directories
 - privacy.html / terms.html – Informational pages revealing application structure
+
 ---
 
 ### Parameters Identified
@@ -67,6 +70,7 @@ Understanding status codes, file structures, and parameters helps attackers:
 - Prepare for advanced attacks like SQL injection, IDOR, and logic flaws
 
 This highlights the importance of secure coding, proper validation, and layered defenses.
+
 ---
 
 ### Learning
